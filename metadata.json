@@ -1,0 +1,5 @@
+{
+  "name": "AudioScribe AI",
+  "description": "Generate accurate subtitles from audio files instantly using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
